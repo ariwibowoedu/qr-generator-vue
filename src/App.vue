@@ -54,7 +54,7 @@
   <footer class="max-w-xl mx-auto text-center my-8">
     <p class="text-md text-gray-600">
       &copy;
-      <a href="https://ariwibowoedu.github.io/portofolio-v6" target="_blank">
+      <a href="https://ariwibowoedu.github.io/" target="_blank">
         ariwibowoedu.github.io
       </a>
     </p>
